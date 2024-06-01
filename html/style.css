@@ -1,0 +1,24 @@
+body{
+    background-color: lightpink;
+
+    }
+
+.header{
+    width: 100%;
+    height: 300px;
+    padding-bottom: 30px;
+}
+h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+.img{
+    text-align: center;
+}
+.body{
+    background-image: url(card.jpeg);
+    height: 1200px;
+    width: 100%;
+    padding-left: 30px;
+}
+
